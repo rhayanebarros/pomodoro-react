@@ -12,11 +12,11 @@
   font-weight: bold;
   text-decoration: none;
   color: var(--primary);
+  transition: all 0.3s ease-in-out;
 }
 
 .logoLink:hover {
   filter: brightness(80%);
-  transition: all 0.3s ease-in-out;
 }
 
 .logoLink svg {
